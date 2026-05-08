@@ -139,10 +139,16 @@ Este dashboard utiliza los mismos datos del proyecto SQL:
 
 ## 👤 Autor
 
-**[Tu Nombre]**  
-📧 [tu-email@gmail.com]  
-🔗 [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+# Richard Martinez
 
+💻 # Ingeniero en Software / Analista de Datos  
+📊 Power BI | SQL | Python | Excel
+
+## 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20Martinez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ing-martinez-057b6b181/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ingmartinez031-black?style=for-the-badge&logo=github)](https://github.com/ingmartinez031)
 ---
 
 > *Proyecto desarrollado como parte de un portafolio de análisis de datos orientado al sector financiero y bancario.*
