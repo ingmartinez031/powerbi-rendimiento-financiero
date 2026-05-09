@@ -150,5 +150,6 @@ Este dashboard utiliza los mismos datos del proyecto SQL:
 
 [![GitHub](https://img.shields.io/badge/GitHub-ingmartinez031-black?style=for-the-badge&logo=github)](https://github.com/ingmartinez031)
 ---
+[![Portafolio](https://img.shields.io/badge/Portafolio-ingmartinez031-00B4D8?style=for-the-badge&logo=googlechrome)](https://ingmartinez031.github.io/portafolio-web/)
 
 > *Proyecto desarrollado como parte de un portafolio de análisis de datos orientado al sector financiero y bancario.*
