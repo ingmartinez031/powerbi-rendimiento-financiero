@@ -1,4 +1,4 @@
-# 📊 Dashboard de Rendimiento Financiero — Sucursal Bancaria
+# 📊 Dashboard de Rendimiento Financiero
 
 Dashboard interactivo desarrollado en Power BI que visualiza el rendimiento de la cartera de préstamos de una entidad bancaria. Permite analizar mora, riesgo, distribución por producto y evolución mensual de desembolsos a nivel de sucursal.
 
