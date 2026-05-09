@@ -133,7 +133,7 @@ CALCULATE(
 ## 🔗 Proyecto relacionado
 
 Este dashboard utiliza los mismos datos del proyecto SQL:  
-👉 [sql-cartera-bancaria](https://github.com/tu-usuario/sql-cartera-bancaria)
+👉 [sql-cartera-bancaria](https://github.com/ingmartinez031/sql-cartera-bancaria)
 
 ---
 
